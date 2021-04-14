@@ -54,5 +54,4 @@ function CampsiteInfoComponent(props) {
     )
 }
 
-
 export default CampsiteInfoComponent
